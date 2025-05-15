@@ -9,7 +9,7 @@ End goal is to create a tool that extracts text from PDFs using OCR, translates 
 - 🧠 **Embeddings** – Generates vector representations using SentenceTransformers
 - 🔍 **Semantic Search** – Finds the most relevant text chunks for user questions using ChromaDB
 - 🧵 **Chat Interface** – Console chatbot that answers questions based on document content
-
+- 📱 .NET MAUI App** – UI-based cross-platform application for everyday use
 ## ⚙️ Requirements
 
 - Python 3.8+
