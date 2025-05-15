@@ -1,0 +1,25 @@
+﻿@page "/chat"
+
+<h3>💬 Ask a question</h3>
+
+<InputText @bind-Value="userQuery" class="input" />
+<button @onclick="SendQuery">Ask</button>
+
+@if (!string.IsNullOrEmpty(response))
+{
+	<p><strong>Bot:</strong> @response</p>
+}
+
+@code {
+	private string userQuery;
+	private string response;
+
+	private async Task SendQuery()
+	{
+		// TODO: Wywołaj lokalny lub zdalny endpoint Python (np. przez HTTP) i odbierz odpowiedź
+		// Przykład:
+		// response = await Http.GetStringAsync($"http://localhost:5000/query?text={Uri.EscapeDataString(userQuery)}");
+
+		response = "Mock response for now..."; // placeholder
+	}
+}

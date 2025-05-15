@@ -1,0 +1,30 @@
+﻿@page "/"
+
+@using Microsoft.AspNetCore.Components.Forms
+
+<h3>📤 Upload PDF</h3>
+
+<InputFile OnChange="HandleFileSelected" accept=".pdf" />
+
+@if (!string.IsNullOrEmpty(StatusMessage))
+{
+	<p>@StatusMessage</p>
+}
+
+@code {
+	private string StatusMessage = "";
+
+	private async Task HandleFileSelected(InputFileChangeEventArgs e)
+	{
+		var file = e.File;
+
+		if (file != null)
+		{
+			StatusMessage = "Processing...";
+
+			// TODO: Zapisz plik, wywołaj backend OCR przez interfejs (np. API, lokalne Python CLI)
+
+			StatusMessage = "File processed and text extracted.";
+		}
+	}
+}

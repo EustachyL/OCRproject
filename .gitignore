@@ -1,0 +1,69 @@
+# Dotnet build outputs
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VSCode
+.vscode/
+
+# Mac build artifacts
+*.DS_Store
+
+# Logs
+*.log
+
+# Xamarin / MAUI specific
+**/Resources/*.designer.cs
+**/*.apk
+**/*.ap_
+**/*.aab
+**/*.ipa
+**/*.app
+*.xcuserstate
+
+# macOS build
+build/
+DerivedData/
+
+# Android Studio / Gradle
+.gradle/
+local.properties
+*.iml
+.gradle/
+**/build/
+
+# MAUI hot reload artifacts
+**/obj/**/hotreload/
+
+# User-specific files
+*.swp
+*.tmp
+*.bak
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Configs
+launchSettings.json
+
+# Others
+.env
+.env.*
+
+# Python backend (if inside project)
+__pycache__/
+*.py[cod]
+venv/
+*.sqlite
+*.db

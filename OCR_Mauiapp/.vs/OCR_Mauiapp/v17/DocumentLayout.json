@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Repos\\OCRproject\\OCR_Mauiapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A46D5F0-4DE8-40EE-8197-57BFEA01C7B7}|OCR_Mauiapp\\OCR_Mauiapp.csproj|d:\\users\\repos\\ocrproject\\ocr_mauiapp\\ocr_mauiapp\\wwwroot\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A46D5F0-4DE8-40EE-8197-57BFEA01C7B7}|OCR_Mauiapp\\OCR_Mauiapp.csproj|solutionrelative:ocr_mauiapp\\wwwroot\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A46D5F0-4DE8-40EE-8197-57BFEA01C7B7}|OCR_Mauiapp\\OCR_Mauiapp.csproj|d:\\users\\repos\\ocrproject\\ocr_mauiapp\\ocr_mauiapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A46D5F0-4DE8-40EE-8197-57BFEA01C7B7}|OCR_Mauiapp\\OCR_Mauiapp.csproj|solutionrelative:ocr_mauiapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A46D5F0-4DE8-40EE-8197-57BFEA01C7B7}|OCR_Mauiapp\\OCR_Mauiapp.csproj|d:\\users\\repos\\ocrproject\\ocr_mauiapp\\ocr_mauiapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A46D5F0-4DE8-40EE-8197-57BFEA01C7B7}|OCR_Mauiapp\\OCR_Mauiapp.csproj|solutionrelative:ocr_mauiapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Users\\Repos\\OCRproject\\OCR_Mauiapp\\OCR_Mauiapp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "OCR_Mauiapp\\wwwroot\\index.html",
+              "ToolTip": "D:\\Users\\Repos\\OCRproject\\OCR_Mauiapp\\OCR_Mauiapp\\wwwroot\\index.html",
+              "RelativeToolTip": "OCR_Mauiapp\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-15T20:51:52.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chat.razor",
+              "DocumentMoniker": "D:\\Users\\Repos\\OCRproject\\OCR_Mauiapp\\OCR_Mauiapp\\wwwroot\\Chat.razor",
+              "RelativeDocumentMoniker": "OCR_Mauiapp\\wwwroot\\Chat.razor",
+              "ToolTip": "D:\\Users\\Repos\\OCRproject\\OCR_Mauiapp\\OCR_Mauiapp\\wwwroot\\Chat.razor",
+              "RelativeToolTip": "OCR_Mauiapp\\wwwroot\\Chat.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T20:51:41.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Users\\Repos\\OCRproject\\OCR_Mauiapp\\OCR_Mauiapp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "OCR_Mauiapp\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Users\\Repos\\OCRproject\\OCR_Mauiapp\\OCR_Mauiapp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "OCR_Mauiapp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T20:48:27.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
